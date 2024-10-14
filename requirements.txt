@@ -2,3 +2,4 @@
 streamlit
 pandas
 requests
+snowflake-snowpark-python==1.11.0
